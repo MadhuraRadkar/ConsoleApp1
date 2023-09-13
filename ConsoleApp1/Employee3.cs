@@ -32,7 +32,7 @@ namespace ConsoleApp1
             Console.WriteLine("Manager");
         }
     }
-    public class RegualrEmployee : Employee3
+    public class RegularEmployee : Employee3
     {
         public override void DisplayRole()
         {
